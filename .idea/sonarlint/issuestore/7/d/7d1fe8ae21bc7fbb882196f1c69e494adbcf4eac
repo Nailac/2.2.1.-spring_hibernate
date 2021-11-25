@@ -1,0 +1,11 @@
+
+E
+java:S3740""/Provide the parametrized type for this generic.(øß¾
+O
+java:S1854""9Remove this useless assignment to local variable "query".(øß¾
+C
+java:S1874""-Remove this use of "Query"; it is deprecated.(øß¾
+@
+java:S1481""*Remove this unused "query" local variable.(øß¾
+`
+java:S2095!"EUse try-with-resources or close this "Session" in a "finally" clause.(´Ï‚‘ùÿÿÿÿ

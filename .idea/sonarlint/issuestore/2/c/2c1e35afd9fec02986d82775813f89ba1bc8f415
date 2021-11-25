@@ -1,0 +1,14 @@
+
+„
+java:S1130"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(Á¯¦þ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÂŒæí
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‘ßâàûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(²¾ïþøÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(©Í­¾ûÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+h
+java:S1192"FDefine a constant instead of duplicating this literal "User4" 3 times.(»§ Çùÿÿÿÿ8ý¨´¦Õ/
+l
+java:S1192"JDefine a constant instead of duplicating this literal "Lastname4" 3 times.(»§ Çùÿÿÿÿ8þ¨´¦Õ/
+p
+java:S1192"NDefine a constant instead of duplicating this literal "user4@mail.ru" 3 times.(»§ Çùÿÿÿÿ8ÿ¨´¦Õ/
